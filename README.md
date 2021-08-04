@@ -3,7 +3,7 @@
 Author: Barbat, M. M. Version 2021.1
 
 
-**For citation use**: 
+**How to cite**: 
 
 Barbat, M. M., Wesche, C., Werhli, A. V., & Mata, M. M. (2019). An adaptive machine learning approach to improve automatic iceberg detection from SAR images. ISPRS Journal of Photogrammetry and Remote Sensing, 156(March), 247–259. https://doi.org/10.1016/j.isprsjprs.2019.08.015
 
