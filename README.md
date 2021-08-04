@@ -4,7 +4,7 @@ Author: Barbat, M. M. Version 2021.1
 
 IceDT is a framework in developement intending to improve accurate automatic iceberg detection. The framework includes an alternative machine-learning architecture focused on superpixel segmentation, deep learning, and ensemble learning with application to high-resolution Synthetic Aperture Radar (SAR) images.
 
-All pre-processing, segmentation and classification stages are optimized to operate under ambiguous scenarios where sea ice, ice mélange, waves, and other artefacts common in polar environments pose major obstacles for large-scale iceberg detections.
+All pre-processing, segmentation and classification stages are optimized intending to operate under ambiguous scenarios where sea ice, ice mélange, waves, and other artefacts common in polar environments pose major obstacles for large-scale iceberg detections.
 
 **How to cite**: 
 
