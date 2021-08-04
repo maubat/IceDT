@@ -2,12 +2,13 @@
 
 Author: Barbat, M. M. Version 2021.1
 
+IceDT is a framework in developement intending to improve accurate automatic iceberg detection. The framework includes an alternative machine-learning architecture focused on superpixel segmentation, deep learning, and ensemble learning with application to high-resolution Synthetic Aperture Radar (SAR) images.
+
+All pre-processing, segmentation and classification stages are optimized to operate under ambiguous scenarios where sea ice, ice mélange, waves, and other artefacts common in polar environments pose major obstacles for large-scale iceberg detections.
 
 **How to cite**: 
 
 Barbat, M. M., Wesche, C., Werhli, A. V., & Mata, M. M. (2019). An adaptive machine learning approach to improve automatic iceberg detection from SAR images. ISPRS Journal of Photogrammetry and Remote Sensing, 156(March), 247–259. https://doi.org/10.1016/j.isprsjprs.2019.08.015
-
-IceDT is an open-source method in developement intending to improve accurate automatic iceberg detection. The method applies an alternative machine-learning architecture focused on superpixel segmentation, deep learning, and ensemble learning with application to high-resolution Synthetic Aperture Radar (SAR) images.
 
 **Demonstration**. Using Radarsar RAMP AMM-1 1997 input data.
 
@@ -16,7 +17,6 @@ IceDT is an open-source method in developement intending to improve accurate aut
 Figure: Comparison of SAR scenes from the RAMP AMM-1 mission with iceberg detection results using the autonomous detection method. White objects represents icebergs, dark gray ocean/seaice, light gray land/ice shelves and black no-data. 
 
 Notice:
-- This is a trial and development version. Full version including graphical interface and full functionality will be made available soon.
 - So far supports reading SAR files in format raster.
 - code is fully implemented in Python 3.x
 
